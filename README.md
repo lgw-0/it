@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -94,3 +95,8 @@ Conversation2 conversation= new Conversation2();
 
 
 }
+=======
+# it
+杜某激情修改
+上传了数个文件
+>>>>>>> 20e91258b78329f2881d9bcdd8306b475fcad9f9
