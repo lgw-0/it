@@ -1,1 +1,2 @@
-# it
+# it readme
+It is our homework
